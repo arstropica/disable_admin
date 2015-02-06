@@ -1,10 +1,10 @@
 <?php
     /*
     Plugin Name: Disable Admin Access
-    Plugin URI: http://digitalsherpa.com/
+    Plugin URI: http://arstropica.com/
     Description: Disable WordPress Admin Access
     Version: 1.0
-    Author: Akin Williams
+    Author: ArsTropica <info@digitalsherpa.com>
     */
     
     // Add Exceptions
